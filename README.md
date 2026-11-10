@@ -30,17 +30,17 @@ Unemployment rate = Unemployed / Labour force
 ## Charts
 
 ### Monthly changes: employment vs. labour force
-![Month-over-month change in employment and labour force](02_monthly_changes.png)
+<img src="02_monthly_changes.png" alt="Month-over-month change in employment and labour force" width="520">
 
 Employment grew in each of the three months to December (Oct, Nov, Dec). January is the first decline, and the labour force fell nearly five times as much as employment.
 
 ### Participation rate
-![Labour force participation rate](03_participation_rate.png)
+<img src="03_participation_rate.png" alt="Labour force participation rate" width="520">
 
 Participation sat at 65.2% for three months, ticked up to 65.4% in December, and dropped to 65.0% in January. Unlike December, when employment and participation both expanded, January saw both decline.
 
 ### Unemployment rate
-![Unemployment rate](04_unemployment_rate.png)
+<img src="04_unemployment_rate.png" alt="Unemployment rate" width="520">
 
 The rate fell from 6.84% in December to 6.45% in January (reported as 6.8% and 6.5%). In October and November it also fell, but with employment rising. January is the only month where the rate fell while employment fell too.
 
